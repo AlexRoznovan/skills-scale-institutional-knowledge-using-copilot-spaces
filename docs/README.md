@@ -59,4 +59,3 @@ Quality assurance is embedded throughout the lifecycle rather than added at the 
 This README is the central entry point for the OctoAcme project management documentation suite. It is designed to help new team members onboard faster, give stakeholders a consistent language for process, and ensure the team uses a common set of practices across projects.
 
 If you want a simple starting point: read the overview, review the relevant role guide, then follow the initiation and planning documents before moving into execution, release, and retrospective activities.
-
